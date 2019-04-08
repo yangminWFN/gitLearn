@@ -4,3 +4,4 @@
 4.Git is my first repository.
 5.Start use diff command.
 6.create dev branch.
+7.now is on dev2 branch.
